@@ -121,7 +121,5 @@ class MainActivity : AppCompatActivity() {
             println("La cédula " + cedula + " es inválida.")
         }
 
-
-
     }
 }
